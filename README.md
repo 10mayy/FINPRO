@@ -32,5 +32,3 @@ So, follow along if you can keep up. If not, well, try harder. This tech prodigy
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/iam10mayy)
 
 
-# Hi, I'm Katherine! 👋
-
