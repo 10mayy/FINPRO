@@ -1,7 +1,7 @@
 
 # Stock Price Analysis using Sentiment Score.
 
-The present study broadens its scope to examine the relationship between news sentiment and stock prices on six prominent international stock exchanges in the crucial months of September, October, and November of 2023. Sentiment scores were computed using the Vader tool for daily news headlines pertaining to the New York Stock Exchange, NASDAQ, Shanghai Stock Exchange, Hong Kong Stock Exchange, and London Stock Exchange. This builds on the preliminary investigation of the NASDAQ index. The investigation that followed sought to determine whether sentiment scores and stock price lows in these various financial markets during the Israel Palestine war were correlated. The results of this multi-exchange strategy offer a thorough grasp of how news mood affects stock prices globally during times of geopolitical uncertainty.
+Create an interactive and insightful Stock Price Analysis tool using Python and sentiment analysis, where users can track and predict stock price movements based on real-time sentiment scores derived from news articles and social media, offering a comprehensive and user-friendly interface for investors to make informed decisions.
 
 ## Steps
 
